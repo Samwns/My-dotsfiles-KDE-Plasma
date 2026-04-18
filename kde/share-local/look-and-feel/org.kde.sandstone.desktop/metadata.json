@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "joe@linuxdojo.org",
+                "Name": "Joe"
+            }
+        ],
+        "Description": "Gruvbox light warm tan theme",
+        "Id": "org.kde.sandstone.desktop",
+        "License": "LGPL-2.0-or-later",
+        "Name": "Sandstone",
+        "Version": "1.0",
+        "Website": "https://linuxdojo.org"
+    },
+    "X-Plasma-APIVersion": "2"
+}

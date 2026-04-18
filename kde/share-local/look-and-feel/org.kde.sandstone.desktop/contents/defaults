@@ -1,0 +1,12 @@
+[kdeglobals][General]
+ColorScheme=Sandstone
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[plasmarc][Theme]
+name=sandstone
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze

@@ -1,0 +1,10 @@
+[Daemon]
+Autolock=false
+Timeout=0
+
+[Greeter][LnF][General]
+showMediaControls=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/samns/Imagens/Wallpapers/00130.png
+SlidePaths=/home/samns/.local/share/wallpapers/,/usr/share/wallpapers/
